@@ -1,0 +1,100 @@
+.container {
+	min-width: 100%;
+	max-width: 100%;
+	overflow-x: hidden !important;
+}
+
+.main {
+	margin: 44px auto;
+}
+
+.content h1 {
+	color: rgb(128, 128, 128);
+	font: bold 24px Helvetica, Arial, sans-serif;
+	margin: 12px;
+}
+
+.form-padding {
+	padding: 12px 24px;
+}
+
+.form-top-border::before {
+	content: "";
+	display: block;
+	width: 100%;
+	margin: 8px 0;
+	border-top: 2px dashed #777;
+}
+
+.group {
+	position: relative;
+	margin-bottom: 12px;
+}
+
+input {
+	font-size: 20px;
+	padding: 15px 10px 5px 5px;
+	-webkit-appearance: none;
+	display: block;
+	background: #fff0;
+	color: #636363;
+	width: 100%;
+	border: none;
+	border-radius: 0;
+	border-bottom: 2px solid #777;
+}
+
+input:focus {
+	outline: none;
+}
+
+/* Label */
+label,
+input:empty ~ label,
+input:invalid ~ label {
+	color: #999;
+	font-size: 18px;
+	font-weight: normal;
+	position: absolute;
+	pointer-events: none;
+	top: 15px;
+	left: 15px;
+	transition: all 0.25s ease;
+}
+
+/* active */
+input:focus ~ label,
+input:valid ~ label {
+	top: 0;
+	font-size: 14px;
+	color: #4a89dc;
+}
+
+/* active */
+input:focus ~ .bar:before,
+input:focus ~ .bar:after {
+	width: 50%;
+}
+
+/* Button */
+.btn-material {
+	position: relative;
+	display: inline-block;
+	margin: 8px auto;
+	padding: 12px;
+	width: 98%;
+	vertical-align: middle !important;
+	text-align: center !important;
+	color: #fff;
+	font-size: 16px;
+	line-height: 20px;
+	background: rgb(192, 0, 0);
+	border-bottom: 4px solid rgb(128, 0, 0);
+	text-shadow: 0 1px rgb(128, 0, 0);
+	transition: all 0.25s ease;
+	cursor: pointer;
+}
+
+.btn-material:hover {
+	background: rgb(255, 0, 0);
+}
