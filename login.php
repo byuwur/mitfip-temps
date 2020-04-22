@@ -1,10 +1,16 @@
-<!-- Bootstrap core CSS -->
+<link href="https://mitfipespinal.comunisoft.com/bootstrap-material/css/bootstrap-material-design.css" rel="stylesheet" />
+<link href="https://mitfipespinal.comunisoft.com/css/main.css" rel="stylesheet" />
+<link href="https://mitfipespinal.comunisoft.com/fontawesome/css/all.min.css" rel="stylesheet" />
+<script src="https://mitfipespinal.comunisoft.com/js/jquery-3.4.1.min.js" type="application/javascript"></script>
+<script src="https://mitfipespinal.comunisoft.com/js/popper.min.js" type="application/javascript"></script>
+<script src="https://mitfipespinal.comunisoft.com/bootstrap-material/js/bootstrap-material-design.min.js" type="application/javascript"></script>
+<!-- MITFTIP custom CSS-JS 
 <link href="bootstrap-material/css/bootstrap-material-design.css" rel="stylesheet" />
 <link href="css/main.css" rel="stylesheet" />
 <link href="fontawesome/css/all.min.css" rel="stylesheet" />
 <script src="js/jquery-3.4.1.min.js" type="application/javascript"></script>
 <script src="js/popper.min.js" type="application/javascript"></script>
-<script src="bootstrap-material/js/bootstrap-material-design.min.js" type="application/javascript"></script>
+<script src="bootstrap-material/js/bootstrap-material-design.min.js" type="application/javascript"></script -->
 
 <div class="container">
 	<section class="content" style="max-width: 480px;">
