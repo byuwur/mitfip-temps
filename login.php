@@ -4,6 +4,7 @@
 <script src="https://mitfipespinal.comunisoft.com/js/jquery-3.4.1.min.js" type="application/javascript"></script>
 <script src="https://mitfipespinal.comunisoft.com/js/popper.min.js" type="application/javascript"></script>
 <script src="https://mitfipespinal.comunisoft.com/bootstrap-material/js/bootstrap-material-design.min.js" type="application/javascript"></script>
+<link href="fontawesome/css/all.min.css" rel="stylesheet" />
 <!-- MITFTIP custom CSS-JS 
 <link href="bootstrap-material/css/bootstrap-material-design.css" rel="stylesheet" />
 <link href="css/main.css" rel="stylesheet" />

@@ -4,6 +4,7 @@
 <script src="https://mitfipespinal.comunisoft.com/js/jquery-3.4.1.min.js" type="application/javascript"></script>
 <script src="https://mitfipespinal.comunisoft.com/js/popper.min.js" type="application/javascript"></script>
 <script src="https://mitfipespinal.comunisoft.com/bootstrap-material/js/bootstrap-material-design.min.js" type="application/javascript"></script>
+<link href="fontawesome/css/all.min.css" rel="stylesheet" />
 <!-- MITFTIP custom CSS-JS 
 <link href="bootstrap-material/css/bootstrap-material-design.css" rel="stylesheet" />
 <link href="css/main.css" rel="stylesheet" />
@@ -59,7 +60,7 @@
                     <option id="AB-" name="AB-" value="AB-">AB-</option>
                 </select>
             </div>
-            <div class="group col-12"><input type="text" id="celular" name="celular" required /><span class="highlight"></span><span class="bar"></span><label>Celuar</label></div>
+            <div class="group col-12"><input type="text" id="celular" name="celular" required /><span class="highlight"></span><span class="bar"></span><label>Celular</label></div>
             <input class="btn-block btn-material col-12" type="submit" name="btn-login" value="REGISTRAR" />
         </div>
     </form>
