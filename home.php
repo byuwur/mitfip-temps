@@ -36,7 +36,7 @@
             <div class="col-sm-4">
                 <a class="btn btn-outline-info btn-block" href="adminedit.php?user=USERNAME"><i class="fas fa-user-edit" style="font-size:24px"></i>Editar Perfil</a>
             </div>
-            <div id="deldiv_USERNAME" name="deldiv_USERNAME" class="col-sm-4">
+            <div class="col-sm-4">
                 <a class="btn btn-outline-warning btn-block"><i class="fas fa-sign-out-alt" style="font-size:24px"></i>Cerrar sesión</a>
             </div>
         </div>
