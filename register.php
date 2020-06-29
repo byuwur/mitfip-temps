@@ -11,6 +11,7 @@
 <script src="js/jquery-3.4.1.min.js" type="application/javascript"></script>
 <script src="js/popper.min.js" type="application/javascript"></script>
 <script src="bootstrap-material/js/bootstrap-material-design.min.js" type="application/javascript"></script -->
+<title>Registro de usuarios</title>
 <div class="text-center">
     <form class="form-padding" action="" method="POST">
         <div class="row group text-center">

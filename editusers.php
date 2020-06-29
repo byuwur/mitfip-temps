@@ -11,6 +11,7 @@
 <script src="js/jquery-3.4.1.min.js" type="application/javascript"></script>
 <script src="js/popper.min.js" type="application/javascript"></script>
 <script src="bootstrap-material/js/bootstrap-material-design.min.js" type="application/javascript"></script -->
+<title>Editar Usuario</title>
 <div class="text-center">
     <h1><i class="fas fa-edit"></i>EDITAR USER - "ADMIN"</h1>
     <form method="POST" action="">
