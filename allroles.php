@@ -37,10 +37,10 @@
             <small>Nombre del rol:</small><br><b>ESTUDIANTES</b>
         </div>
         <div class="col-sm-1">
-            <a class="btn btn-outline-info btn-sm" href="adminedit.php?user=USERNAME"><i class="fas fa-user-edit" style="font-size:24px"></i></a>
+            <a class="btn btn-outline-info btn-sm" href="editrol.php"><i class="fas fa-user-edit" style="font-size:24px"></i></a>
         </div>
         <div class="col-sm-1">
-            <a class="btn btn-outline-warning btn-sm" href="adminedit.php?user=USERNAME"><i class="fas fa-user-slash" style="font-size:24px"></i></a>
+            <a class="btn btn-outline-warning btn-sm" href="#"><i class="fas fa-user-slash" style="font-size:24px"></i></a>
         </div>
         <div class="col-sm-1">
             <a class="btn btn-outline-warning btn-sm" href="#"><i class="fas fa-trash" style="font-size:24px"></i></a>

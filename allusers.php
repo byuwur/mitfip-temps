@@ -17,7 +17,7 @@
     <div class="row form-padding">
         <div class="col-5 col-md-6">Sesión actual:<br><b>ADMIN</b></div>
         <div class="col-7 col-md-3"><a class="btn-block btn-material" href="admincreate.php"><i class="fas fa-user-plus"></i>AÑADIR USUARIO</a></div>
-        <div class="col-7 col-md-3"><a class="btn-block btn-material" href="admincreate.php"><i class="fas fa-user-tie"></i>ROLES</a></div>
+        <div class="col-7 col-md-3"><a class="btn-block btn-material" href="allroles.php"><i class="fas fa-user-tie"></i>ROLES</a></div>
     </div>
 
     <div class="row form-padding form-top-border">
